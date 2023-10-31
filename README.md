@@ -2,7 +2,7 @@
 Common calculator made with html css and javascript.
 
 # Layout
-<img src="./assets/img/calc.png" />
+<img src="/assets/img/calc.png" />
 
 # License 📚
 [MIT license](LICENSE).
