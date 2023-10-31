@@ -1,6 +1,8 @@
 # Calc.js
 Common calculator made with html css and javascript.
 
+access: https://common-calculator.vercel.app
+
 # Layout
 <img src="/assets/img/calc.png" />
 
